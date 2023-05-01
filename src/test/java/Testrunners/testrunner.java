@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 				"json:target/Ds-algo.json",
 				"rerun:target/rerun.txt"  ,//mandatory for capture failures 
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" //Extent Reports
-				}, //reporting purpose-- html reports are created
+				},//reporting purpose-- html reports are created
 		monochrome=true,  //console output color and eliminate junk characters
 		//dryRun=false, // (=true)->compilation purpose mostly to chk stepdefinitions are implemented or not
 		//tags = "@tag1 or @tag2 or @tag3 or @tag4", //tags from feature file
