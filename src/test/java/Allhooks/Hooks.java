@@ -10,13 +10,13 @@ import utilities.LoggerLoad;
 
 public class Hooks {
 
-	@Before(order = 1)
+	@Before(order = 0)
 	public static void setUp() {
 		driversetup.setUpDriver();
 		LoggerLoad.info("driver setup");
 	}
 
-	@Before(order = 0)
+	@Before(order = 1)
 	public static void setup2() {
 		driversetup.getDriver();
 		LoggerLoad.info("getdriver");

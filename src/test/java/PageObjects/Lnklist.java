@@ -5,15 +5,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import stepdefinitions.Combase;
+import stepdefinitions.Basepage;
 import utilities.LoggerLoad;
 
-public class Lnklist extends Combase {
+public class Lnklist extends Basepage {
+	
 	public Lnklist(WebDriver driver) {
 		LoggerLoad.info("Entered into LinkedList Module");
 		PageFactory.initElements(driver, this);
-		driver.switchTo().window(driver.getWindowHandle());
-	}
+		}
 
 	@FindBy(xpath = "//h5[text()=\"Linked List\"]/../a")
 	WebElement linkedlistGetStarted;

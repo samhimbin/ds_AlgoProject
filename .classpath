@@ -35,5 +35,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="/UsingCucumber"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

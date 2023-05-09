@@ -1,7 +1,7 @@
-Feature: feature to test new user registration
-  I want to use this template for my feature file
 
-  @tag4
+Feature: feature to test new user registration
+
+  @register
   Scenario Outline: user navigate to registration page
     Given user click registration link
     When user enter username,password,confirm password from given "<sheetname>" and <rowno>
@@ -20,3 +20,6 @@ Feature: feature to test new user registration
 |Sheet1    |8     |
 |Sheet1    |9     |
 |Sheet1    |10    |
+
+  
+   

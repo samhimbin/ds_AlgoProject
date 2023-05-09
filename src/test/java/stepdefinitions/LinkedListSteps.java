@@ -22,7 +22,7 @@ import io.cucumber.java.en.When;
 import utilities.ExcelReader;
 import utilities.LoggerLoad;
 
-public class LinkedListSteps extends Combase {
+public class LinkedListSteps extends Basepage {
 
 	WebDriver driver = driversetup.getDriver();
 	
@@ -33,14 +33,13 @@ public class LinkedListSteps extends Combase {
 	@Given("The user is on signIn Page of DSAlgo portal")
 	public void the_user_is_on_sign_in_page_of_ds_algo_portal() {
 
-		// driver = driversetup.getDriver();
 		loginpage = new Loginpage(driver);
 		driversetup.openPage("https://dsportalapp.herokuapp.com/login");
 	}
 
 	@When("user enter valid username {string} and password {string}")
 	public void user_enter_valid_username_and_password(String uname, String password) {
-		loginpage.enternamepasswrd(uname, password, driver);
+		loginpage.enternamepasswrd(uname, password);
 	}
 
 	@Then("user click on login button")
@@ -121,7 +120,7 @@ public class LinkedListSteps extends Combase {
 	public void the_user_enter_valid_python_code_in_try_editor_from_sheet_and(String string, Integer row)
 			throws InvalidFormatException, IOException {
 		ExcelReader reader = new ExcelReader();
-		LoggerLoad.info("User is in TryEditor page of LinkedList Module");
+		LoggerLoad.info("User is in TryEditor page");
 		List<Map<String, String>> testData = reader.getData(excelpath, "Sheet1");
 		String pyCode = testData.get(row).get("pythoncode"); // Column heading
 		String output = testData.get(row).get("result"); // Column heading
@@ -150,7 +149,7 @@ public class LinkedListSteps extends Combase {
 	public void the_user_enter_invalid_python_code_in_try_editor_from_sheet_and(String string, Integer row)
 			throws InvalidFormatException, IOException {
 		ExcelReader reader = new ExcelReader();
-		LoggerLoad.info("User is in TryEditor page of LinkedList Module");
+		LoggerLoad.info("User is in TryEditor page");
 		List<Map<String, String>> testData = reader.getData(excelpath, "Sheet1");
 		String pyCode = testData.get(row).get("pythoncode"); // Column heading
 		String output = testData.get(row).get("result"); // Column heading
