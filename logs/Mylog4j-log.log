@@ -1,0 +1,874 @@
+['INFO ]2023-05-19 16:13:48,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:48,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-19 16:13:51,984(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:52,000(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:52,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:52,148(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:52,158(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:52,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:52,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:52,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-19 16:13:52,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:52,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-19 16:13:53,127(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-19 16:13:53,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-19 16:13:53,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-19 16:13:53,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:53,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:53,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-05-19 16:13:53,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:13:53,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:13:53,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-19 16:13:53,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:53,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:53,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,754(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:53,755(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:13:54,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:54,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:54,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:54,075(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:54,075(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:54,280(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:13:55,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:13:55,599(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-19 16:13:55,631(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:55,631(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:55,632(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:55,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:55,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:55,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:13:56,016(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:13:56,183(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-19 16:13:56,210(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:56,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:56,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:56,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:56,450(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:56,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:56,715(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:13:57,015(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:13:57,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-19 16:13:57,167(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:57,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:57,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:57,372(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:57,372(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:57,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:57,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:13:57,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:13:58,122(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:58,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:58,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:58,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:58,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:58,283(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:58,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:13:58,858(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:13:59,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:59,294(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:59,294(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:13:59,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:59,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:13:59,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:13:59,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:13:59,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:14:00,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:00,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:00,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:00,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:00,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:00,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:00,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:14:00,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:14:00,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:01,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:01,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:14:01,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:14:01,802(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:01,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:01,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:01,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:02,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:14:02,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:14:02,626(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:02,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:02,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:02,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:02,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:02,770(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:02,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:14:03,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:14:03,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:03,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:03,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:03,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:03,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:03,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:03,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-19 16:14:04,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-19 16:14:09,384(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:09,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:09,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:09,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:09,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:09,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:09,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:09,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-19 16:14:10,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:14:10,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-19 16:14:10,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-19 16:14:10,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:10,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:10,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:10,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:10,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:10,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:10,590(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-19 16:14:10,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:14:10,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-19 16:14:11,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,087(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:12,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:12,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-19 16:14:12,504(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:14:12,504(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-19 16:14:12,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:12,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:12,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:12,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-19 16:14:13,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:14:13,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-19 16:14:13,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:13,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:13,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:13,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:13,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:13,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-We are in Datastructures Page
+['INFO ]2023-05-19 16:14:14,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:14,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:15,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:15,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:15,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:15,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,378(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:15,631(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:15,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,921(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,921(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:15,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:15,923(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:15,923(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-We are in Datastructures Page
+['INFO ]2023-05-19 16:14:16,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:16,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:16,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:16,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:16,389(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:16,389(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:16,391(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:17,333(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays
+['INFO ]2023-05-19 16:14:18,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:18,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:18,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:18,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:18,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:18,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:22,735(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:22,735(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:22,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:22,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:22,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:22,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:22,840(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:22,840(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:25,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:26,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:26,171(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:26,171(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:26,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:26,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:26,173(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:26,174(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:30,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:30,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,268(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:30,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,270(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:30,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:30,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:30,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,958(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,958(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:30,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:30,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:30,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:31,602(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:31,602(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:31,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:31,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:31,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:31,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:31,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:31,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:32,184(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:32,321(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:32,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:32,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:32,413(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:32,413(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:32,414(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:32,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:33,040(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:33,040(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:33,145(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,145(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:33,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:33,587(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:33,736(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:33,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:33,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:33,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:34,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:34,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:34,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:34,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:34,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:34,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:34,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:34,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:35,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:35,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:35,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:35,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:35,475(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:35,475(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:35,477(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:35,478(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:36,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:36,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:36,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:36,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:36,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:36,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:36,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:36,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:36,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:36,974(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:37,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:37,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:37,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:37,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,740(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:37,741(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,741(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:37,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:37,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:38,104(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:38,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:38,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:38,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:38,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:38,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:38,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:38,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:38,962(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-19 16:14:38,963(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:39,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:39,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-19 16:14:39,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-19 16:14:39,567(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:39,692(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,692(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:39,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:39,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:40,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:40,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:40,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:40,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:40,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:40,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-In HomePage
+['INFO ]2023-05-19 16:14:40,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:14:40,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:14:40,923(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Dropdown got clicked
+['INFO ]2023-05-19 16:14:41,982(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is in Linked list page
+['INFO ]2023-05-19 16:14:41,982(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:42,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-introduction link got clicked
+['INFO ]2023-05-19 16:14:42,722(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Try Here got clicked on introduction page
+['INFO ]2023-05-19 16:14:42,916(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:43,417(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:43,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:43,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:43,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:43,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:43,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:43,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-In tryEditor page
+['INFO ]2023-05-19 16:14:43,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:44,332(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:44,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:44,538(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:44,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:44,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:44,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:44,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:44,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:44,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-In tryEditor page
+['INFO ]2023-05-19 16:14:44,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:44,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:44,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:44,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:45,081(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:45,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:45,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:45,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:45,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:45,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:45,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is ready to create Linked list
+['INFO ]2023-05-19 16:14:45,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:45,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:45,910(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:46,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:46,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:46,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is ready to create Linked list
+['INFO ]2023-05-19 16:14:46,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:46,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:46,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,856(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,856(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:46,858(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,858(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:46,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:46,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:47,150(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user clicked on types of linked list link
+['INFO ]2023-05-19 16:14:47,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:47,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:47,571(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:47,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:47,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:47,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:47,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:47,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:47,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:47,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user clicked on types of linked list link
+['INFO ]2023-05-19 16:14:48,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:48,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:48,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:48,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:48,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:48,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:48,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:48,329(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:48,329(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:48,536(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User can implement linkedlist
+['INFO ]2023-05-19 16:14:48,813(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:48,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:48,969(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,073(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,073(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:49,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:49,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:49,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User can implement linkedlist
+['INFO ]2023-05-19 16:14:49,587(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:49,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:49,761(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:49,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:49,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:49,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:50,079(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is in Traversal Linked list page
+['INFO ]2023-05-19 16:14:50,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:50,392(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:50,472(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:50,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:50,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:50,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:50,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:50,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:50,583(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:50,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is in Traversal Linked list page
+['INFO ]2023-05-19 16:14:50,986(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:51,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:51,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:51,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:51,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:51,441(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User in insertion linked list page
+['INFO ]2023-05-19 16:14:51,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:51,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:51,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:51,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:51,973(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:51,973(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:52,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User in insertion linked list page
+['INFO ]2023-05-19 16:14:52,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:52,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:52,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:52,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:52,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:52,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:52,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:52,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:52,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:52,908(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in deletion of Linked list
+['INFO ]2023-05-19 16:14:53,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:53,223(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:53,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:53,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:53,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:53,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:53,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:53,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:53,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:53,617(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in deletion of Linked list
+['INFO ]2023-05-19 16:14:53,814(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in TryEditor page
+['INFO ]2023-05-19 16:14:53,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-python code being sent
+['INFO ]2023-05-19 16:14:53,983(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:54,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:54,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-19 16:14:54,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is in Practice Questions Page
+['INFO ]2023-05-19 16:14:54,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,338(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User been Navigated back to Main page of LinkedList
+['INFO ]2023-05-19 16:14:54,354(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,354(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:54,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:54,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:54,356(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:14:54,357(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:14:56,682(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select stack menu from dropdown
+['INFO ]2023-05-19 16:14:56,684(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select operations in stack
+['INFO ]2023-05-19 16:14:58,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:58,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:58,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:58,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:58,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:59,393(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-try button click
+['INFO ]2023-05-19 16:14:59,394(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter valid code for operations in stack
+['INFO ]2023-05-19 16:14:59,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:59,525(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:59,525(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:14:59,525(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:14:59,526(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:14:59,526(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:04,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:04,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:04,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:04,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:04,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:04,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:04,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select implementation in stack
+['INFO ]2023-05-19 16:15:09,836(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:09,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:09,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:09,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:09,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:09,991(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:15,049(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:15,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:15,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:15,195(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:15,195(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:15,196(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:15,196(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-selectapplications in stack
+['INFO ]2023-05-19 16:15:20,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:20,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:20,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:20,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:20,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:20,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:25,393(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:25,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:25,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:25,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:25,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:25,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:25,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in stack
+['INFO ]2023-05-19 16:15:30,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:30,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:30,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:30,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:30,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:30,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:30,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:15:30,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:15:35,728(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:35,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:35,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:35,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:35,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:35,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:40,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:41,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:41,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:41,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:41,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:41,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:46,107(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:46,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:46,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:46,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:46,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:46,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:46,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select using collections
+['INFO ]2023-05-19 16:15:51,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:51,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:51,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:51,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:51,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:51,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:56,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:56,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:56,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:56,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:56,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:56,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:56,626(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select using arrays
+['INFO ]2023-05-19 16:15:59,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,057(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,111(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select queue operation
+['INFO ]2023-05-19 16:15:59,155(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,179(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in queue
+['INFO ]2023-05-19 16:15:59,198(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:15:59,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:15:59,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,243(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,243(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,262(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select using collections
+['INFO ]2023-05-19 16:15:59,280(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,288(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,290(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,306(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,306(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select using arrays
+['INFO ]2023-05-19 16:15:59,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,321(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,335(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,335(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select queue operation
+['INFO ]2023-05-19 16:15:59,338(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,359(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,359(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in queue
+['INFO ]2023-05-19 16:15:59,366(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:15:59,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:15:59,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,395(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,395(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,396(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,396(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,396(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,400(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,409(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,409(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,410(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,410(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,411(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,416(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select implementation in stack
+['INFO ]2023-05-19 16:15:59,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,464(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,464(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-selectapplications in stack
+['INFO ]2023-05-19 16:15:59,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,504(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:15:59,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:15:59,506(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:15:59,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in stack
+['INFO ]2023-05-19 16:15:59,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:28:57,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:28:57,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-19 16:28:59,845(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:28:59,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:28:59,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:00,007(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:00,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:00,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:00,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:00,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-19 16:29:00,075(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:00,583(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-19 16:29:01,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-19 16:29:01,087(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,110(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-19 16:29:01,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-19 16:29:01,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:01,161(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,161(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:01,162(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-05-19 16:29:01,162(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,162(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:29:01,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:29:01,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-19 16:29:01,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:01,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,583(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:01,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:01,735(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:29:02,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:02,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:02,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:02,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:02,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:02,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:02,983(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-19 16:29:03,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:29:03,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-19 16:29:03,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-19 16:29:03,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:03,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:03,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:03,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:03,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:03,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:03,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-19 16:29:03,752(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:29:03,753(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-19 16:29:04,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:05,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:05,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-19 16:29:05,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:29:05,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-19 16:29:05,853(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:29:05,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,856(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:29:05,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:29:05,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-19 16:29:06,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:29:06,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-19 16:35:28,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:28,287(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-19 16:35:31,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:31,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:31,257(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:31,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:31,268(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:31,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:31,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:31,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-19 16:35:31,298(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:31,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-19 16:35:32,199(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-19 16:35:32,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,207(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-19 16:35:32,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-19 16:35:32,260(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,260(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:32,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-05-19 16:35:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,267(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:35:32,270(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-19 16:35:32,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-19 16:35:32,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:32,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:32,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:32,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-19 16:35:33,140(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:33,140(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:33,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:33,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:33,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:33,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:34,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-19 16:35:34,453(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:35:34,453(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-19 16:35:34,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-19 16:35:34,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:34,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:34,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:34,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:34,713(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:34,713(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:34,911(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-19 16:35:35,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:35:35,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-19 16:35:36,226(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:36,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:36,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:36,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:36,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:36,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:36,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:36,664(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-19 16:35:36,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:35:36,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-19 16:35:37,062(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:37,062(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-19 16:35:37,062(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:37,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-19 16:35:37,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:37,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-19 16:35:37,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-19 16:35:37,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-19 16:35:37,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
