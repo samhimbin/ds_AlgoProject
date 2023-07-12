@@ -7,8 +7,8 @@ import io.cucumber.testng.CucumberOptions;
 		//"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
 		}, // reporting purpose
 		monochrome = false, // console output color
-				tags="@portal or @login or @dstruct",
-				features = {"src/test/resources/Features"},
+				tags="@portal or @login",
+				features = {"src/test/resources/Features/"},
 						glue= {"stepdefinitions","Allhooks"})
 public class TestNgTestRunner extends AbstractTestNGCucumberTests {
 

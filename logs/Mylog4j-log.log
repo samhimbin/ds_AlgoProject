@@ -872,3 +872,596 @@
 ['INFO ]2023-05-19 16:35:37,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
 ['INFO ]2023-05-19 16:35:37,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
 ['INFO ]2023-05-19 16:35:37,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-23 21:06:03,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:03,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-23 21:06:08,065(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:08,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:08,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:08,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:08,233(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:08,234(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:08,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:08,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-23 21:06:08,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:11,718(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-23 21:06:13,253(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-23 21:06:13,257(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-23 21:06:13,285(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-23 21:06:13,319(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:13,322(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:13,325(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-05-23 21:06:13,325(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-23 21:06:13,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-23 21:06:13,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-23 21:06:13,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:13,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:13,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:13,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-23 21:06:14,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:14,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:14,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:14,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:14,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:14,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:15,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-23 21:06:15,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:06:15,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-23 21:06:15,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-23 21:06:15,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:15,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:15,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:15,702(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:15,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:15,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:15,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-23 21:06:16,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:06:16,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-23 21:06:17,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:17,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:17,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:17,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:17,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:17,514(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:17,514(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:17,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-23 21:06:18,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:06:18,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-23 21:06:18,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:18,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:06:18,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:18,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:06:18,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:18,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:06:18,539(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-23 21:06:18,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:06:18,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-23 21:07:20,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:20,883(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-23 21:07:23,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:23,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:23,583(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:23,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:23,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:23,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:23,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:23,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-23 21:07:23,609(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:24,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-23 21:07:24,724(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-23 21:07:24,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:24,736(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:24,746(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-23 21:07:24,749(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-23 21:07:24,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:24,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:24,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:24,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:24,874(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:24,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:25,840(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-23 21:07:25,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:07:25,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-23 21:07:26,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-23 21:07:26,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:26,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:26,190(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:26,190(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:26,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:26,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:26,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-23 21:07:26,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:07:26,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-23 21:07:27,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:27,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:27,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:27,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:27,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:27,796(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:27,796(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:28,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-23 21:07:28,221(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:07:28,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-23 21:07:28,498(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:28,498(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:28,498(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:28,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:28,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:28,500(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:28,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-23 21:07:28,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:07:28,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-23 21:07:29,306(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:29,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:29,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:29,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:29,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:29,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-We are in Datastructures Page
+['INFO ]2023-05-23 21:07:29,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:29,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-23 21:07:31,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays valid output= Hello
+['INFO ]2023-05-23 21:07:31,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:31,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:31,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:31,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:31,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:31,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:31,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into Arrays Datastructures page
+['INFO ]2023-05-23 21:07:31,949(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays invalid output= 
+['INFO ]2023-05-23 21:07:32,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:07:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:07:32,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:07:32,268(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-We are in Datastructures Page
+['INFO ]2023-05-23 21:11:45,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:45,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-23 21:11:48,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:48,534(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:48,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:48,666(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:48,675(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:48,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:48,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:48,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-23 21:11:48,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:49,030(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-23 21:11:49,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-23 21:11:49,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:49,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:49,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-23 21:11:49,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-23 21:11:49,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:49,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:49,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:49,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:49,738(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-05-23 21:11:49,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:49,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-23 21:11:49,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-23 21:11:49,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-23 21:11:50,203(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,203(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:50,204(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,204(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:50,206(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,329(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-23 21:11:50,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:50,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:50,664(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:50,664(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:51,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-23 21:11:51,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:11:51,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-23 21:11:52,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-23 21:11:52,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:52,176(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:52,176(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:52,176(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:52,179(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:52,179(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:52,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-23 21:11:52,559(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:11:52,559(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-23 21:11:53,678(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:53,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:53,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:53,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:53,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:53,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:53,874(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:54,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-23 21:11:54,317(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:11:54,317(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-23 21:11:54,596(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:54,597(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-23 21:11:54,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:54,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-23 21:11:54,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:54,599(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-23 21:11:54,740(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-23 21:11:55,011(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-23 21:11:55,011(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-25 09:41:44,757(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:44,762(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:41:47,640(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:47,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:47,785(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:47,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:41:47,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:47,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:41:47,803(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:47,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-25 09:41:47,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:48,188(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-25 09:41:48,684(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-25 09:41:48,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:48,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:48,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-25 09:41:48,702(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-25 09:41:48,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:48,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:41:48,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:48,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:49,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:49,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:41:49,944(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:49,955(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:50,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:50,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:41:50,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:50,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:41:50,090(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-05-25 09:41:50,090(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:50,090(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-25 09:41:50,092(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-25 09:41:55,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:55,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:55,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:41:55,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:55,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:55,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:55,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:41:56,594(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:56,604(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:56,733(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:56,735(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:41:56,736(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:56,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:41:56,738(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:56,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:41:56,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-25 09:42:01,758(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:01,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:01,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:42:01,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:02,024(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:02,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:02,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:42:03,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:03,149(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:03,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:03,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:42:03,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:03,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:42:03,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:03,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:04,588(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-05-25 09:42:04,720(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-25 09:42:04,720(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-25 09:42:04,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-05-25 09:42:04,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:04,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:42:04,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:05,043(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:05,156(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:05,156(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:42:06,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:06,179(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:06,297(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:06,299(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:42:06,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:06,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:42:06,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:06,302(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:06,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-05-25 09:42:07,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-25 09:42:07,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-05-25 09:42:08,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:08,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:08,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:42:08,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:08,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:08,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:08,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:42:09,408(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:09,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:09,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:09,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:42:09,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:09,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:42:09,551(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:09,551(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:10,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-05-25 09:42:10,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-25 09:42:10,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-05-25 09:42:10,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:10,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:42:10,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:10,667(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:10,752(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:10,752(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-25 09:42:11,702(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:11,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:11,836(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:11,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-05-25 09:42:11,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:11,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-05-25 09:42:11,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:11,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:12,587(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-05-25 09:42:12,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-25 09:42:12,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-25 09:42:13,134(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:13,134(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-25 09:42:13,134(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-05-25 09:42:13,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:00,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:00,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:04,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:04,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:04,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:04,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:04,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:04,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:04,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:04,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-07-03 19:05:04,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,033(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-07-03 19:05:05,475(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-07-03 19:05:05,477(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-07-03 19:05:05,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-07-03 19:05:05,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:05,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:05,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:06,968(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:06,983(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:07,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:07,121(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:07,122(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:07,122(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:07,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-07-03 19:05:07,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:07,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-07-03 19:05:07,124(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-07-03 19:05:12,151(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:12,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:12,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:12,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:12,457(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:12,618(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:12,618(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:13,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:13,727(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:13,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-07-03 19:05:18,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:18,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:18,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:18,996(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:19,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:19,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:19,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:20,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:20,416(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:20,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:20,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:20,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:20,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:20,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:20,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:21,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-07-03 19:05:21,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-03 19:05:21,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-07-03 19:05:21,944(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-07-03 19:05:21,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:21,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:21,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:22,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:22,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:22,231(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:23,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:23,738(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:23,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:23,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:23,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:23,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:23,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:23,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:24,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-07-03 19:05:24,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-03 19:05:24,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-07-03 19:05:25,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:25,828(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:25,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:25,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:25,955(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:26,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:26,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:27,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:27,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:27,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:27,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:27,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:27,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:27,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:27,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:28,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-07-03 19:05:28,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-03 19:05:28,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-07-03 19:05:28,760(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:28,760(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:28,760(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:28,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:29,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:29,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-03 19:05:30,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:30,483(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:30,600(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:30,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-03 19:05:30,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:30,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-03 19:05:30,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:30,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:31,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-07-03 19:05:31,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-03 19:05:31,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-07-03 19:05:31,773(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:31,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-03 19:05:31,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-03 19:05:31,900(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:32,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:32,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:51:35,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:35,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:35,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:35,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:51:35,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:35,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:51:35,639(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:35,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-07-12 11:51:35,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:36,238(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-07-12 11:51:36,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-07-12 11:51:36,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:36,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:36,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-07-12 11:51:36,697(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-07-12 11:51:36,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:36,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:51:36,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:36,861(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:37,004(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:37,004(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:51:38,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:38,095(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)- Home Page dropdown click
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-07-12 11:51:38,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-07-12 11:51:43,281(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:43,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:43,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:51:43,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:43,539(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:43,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:43,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:51:44,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:44,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:44,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:44,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:51:44,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:44,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:51:44,828(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:44,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:44,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-07-12 11:51:49,894(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:50,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:50,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:51:50,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:50,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:50,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:50,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:51:51,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:51,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:51,505(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:51,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:51:51,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:51,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:51:51,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:51,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:53,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima "and Password as " " 
+['INFO ]2023-07-12 11:51:53,696(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-12 11:51:53,697(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-07-12 11:51:53,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-
+['INFO ]2023-07-12 11:51:53,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:53,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:51:53,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:53,962(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:54,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:54,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:51:55,153(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:55,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:55,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:55,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:51:55,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:55,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:51:55,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:55,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:55,800(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as "  "and Password as " himasdet109" 
+['INFO ]2023-07-12 11:51:55,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-12 11:51:55,945(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this Field.
+['INFO ]2023-07-12 11:51:57,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:57,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:57,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:51:57,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:57,392(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:57,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:57,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:51:58,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:58,803(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:51:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:51:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:58,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:51:59,553(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " hima109 "and Password as " sdet109" 
+['INFO ]2023-07-12 11:51:59,808(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-12 11:51:59,808(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Inavalid Username and Password
+['INFO ]2023-07-12 11:52:00,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:00,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:52:00,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:00,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:00,353(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:00,353(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-07-12 11:52:01,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:01,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:01,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:01,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-driver setup
+['INFO ]2023-07-12 11:52:01,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:01,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-getdriver
+['INFO ]2023-07-12 11:52:01,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:01,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:02,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enter username as " nitha "and Password as " nithasdet109" 
+['INFO ]2023-07-12 11:52:02,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-07-12 11:52:02,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-07-12 11:52:03,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:03,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-07-12 11:52:03,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver
+['INFO ]2023-07-12 11:52:03,203(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getdriver

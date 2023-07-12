@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "bdd6e3c672dc36b4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890439981,
+      "stop" : 1684890444766,
+      "duration" : 4785
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"Launch url and navigate to home page\"", "\"feature to test ds algo portal link\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "ac10f745d5ac1a7c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890444846,
+      "stop" : 1684890446160,
+      "duration" : 1314
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and0\"", "\"User enter valid and invalid credentials for login\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "3f30d73ca275cced",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1684890446167,
+      "stop" : 1684890447775,
+      "duration" : 1608
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and1\"", "\"User enter valid and invalid credentials for login\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "4f4c2f7bf1ee71cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890447781,
+      "stop" : 1684890448486,
+      "duration" : 705
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2\"", "\"User enter valid and invalid credentials for login\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "21aba477cde34a7b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890448490,
+      "stop" : 1684890449294,
+      "duration" : 804
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and3\"", "\"User enter valid and invalid credentials for login\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "88c26ff325ff0b2b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890449299,
+      "stop" : 1684890451648,
+      "duration" : 2349
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User is able to navigate Data Structures Introduction\"", "\"Evaluate Data stuructures Introduction\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "dd999d791f1cb197",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890451661,
+      "stop" : 1684890452246,
+      "duration" : 585
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User is able to navigate to tryeditor page and run invalid python code\"", "\"Evaluate Data stuructures Introduction\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "7ecbddaaf30b1d4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1684890452256,
+      "stop" : 1684890452514,
+      "duration" : 258
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"User is able to navigate to practice questions\"", "\"Evaluate Data stuructures Introduction\"" ]
+  } ]
+}

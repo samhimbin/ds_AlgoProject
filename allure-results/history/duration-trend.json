@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 12533
+  }
+} ]

@@ -30,6 +30,6 @@ public class Hooks {
 			scenario.attach(screenshot, "image/png", scenario.getName());
 		}
 
-		// driversetup.tearDown();
+		 driversetup.tearDown();
 	}
 }

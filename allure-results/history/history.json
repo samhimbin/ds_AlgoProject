@@ -1,0 +1,163 @@
+{
+  "de83cddd507f7879b4f4e4f124e36331" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f0244381500e5bd",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/8f0244381500e5bd",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input type=\"submit\" value=\"Login\"> is not clickable at point (959, 126). Other element would receive the click: <iframe scrolling=\"no\" frameborder=\"0\" style=\"border: 0px; height: 50px; width: 48px; left: 927px; top: 102px; z-index: 2147483647; position: absolute;\" src=\"https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/kpm/kpm_promo_balloon.html?cssSrc=https%3A%2F%2Fgc.kis.v2.scr.kaspersky-labs.com%2FE3E8934C-235A-4B0E-825A-35A08381A191%2Fkpm%2Ftooltip.css\"></iframe>\n  (Session info: chrome=113.0.5672.126)\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [8e382b5bfb9e7327ea2f51c2c54c26c5, clickElement {id=183CBB8E440AD77066296809B490BF8D_element_19}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.126, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56525}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56525/devtoo..., se:cdpVersion: 113.0.5672.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (8e382b5bfb9e7327ea2f51c2c54c26c5)] -> xpath: //input[@value='Login']]\nSession ID: 8e382b5bfb9e7327ea2f51c2c54c26c5",
+      "time" : {
+        "start" : 1684890446167,
+        "stop" : 1684890447775,
+        "duration" : 1608
+      }
+    } ]
+  },
+  "c66a5b4bf4d9596feb50c30c36b443f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbaa1fb0c15166d5",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/fbaa1fb0c15166d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890449299,
+        "stop" : 1684890451648,
+        "duration" : 2349
+      }
+    } ]
+  },
+  "ac39e3e3e3bb890b43476ad63636379e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77e7d5c610732dce",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/77e7d5c610732dce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890448490,
+        "stop" : 1684890449294,
+        "duration" : 804
+      }
+    } ]
+  },
+  "5608356cb739c026d984fd03288f7437" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e889135d602a8653",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/e889135d602a8653",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890439981,
+        "stop" : 1684890444766,
+        "duration" : 4785
+      }
+    } ]
+  },
+  "be8acbaf279ae9b522b0496f041c99c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70a62af5bce010d7",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/70a62af5bce010d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890452256,
+        "stop" : 1684890452514,
+        "duration" : 258
+      }
+    } ]
+  },
+  "fe64dedf70e8a82969c4debf7b059d71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "798f2f33a56046ae",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/798f2f33a56046ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890444846,
+        "stop" : 1684890446160,
+        "duration" : 1314
+      }
+    } ]
+  },
+  "74efd0ed5998a63d0a033706f36348b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e360116b3588581",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/6e360116b3588581",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890447781,
+        "stop" : 1684890448486,
+        "duration" : 705
+      }
+    } ]
+  },
+  "522f3caa23360f75bd272c22bdd8e291" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1746cb7d619a1f88",
+      "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/1746cb7d619a1f88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684890451661,
+        "stop" : 1684890452246,
+        "duration" : 585
+      }
+    } ]
+  }
+}

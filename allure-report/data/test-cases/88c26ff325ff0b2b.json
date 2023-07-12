@@ -1,0 +1,120 @@
+{
+  "uid" : "88c26ff325ff0b2b",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "c66a5b4bf4d9596feb50c30c36b443f6",
+  "time" : {
+    "start" : 1684890449299,
+    "stop" : 1684890451648,
+    "duration" : 2349
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684890439094,
+      "stop" : 1684890439877,
+      "duration" : 783
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684890452524,
+      "stop" : 1684890452563,
+      "duration" : 39
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "17604@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User is able to navigate Data Structures Introduction\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Evaluate Data stuructures Introduction\""
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "fbaa1fb0c15166d5",
+        "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/fbaa1fb0c15166d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684890449299,
+          "stop" : 1684890451648,
+          "duration" : 2349
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "88c26ff325ff0b2b.json",
+  "parameterValues" : [ "\"User is able to navigate Data Structures Introduction\"", "\"Evaluate Data stuructures Introduction\"" ]
+}

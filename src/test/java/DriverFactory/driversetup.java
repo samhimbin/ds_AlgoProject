@@ -13,7 +13,7 @@ public class driversetup {
 	static ResourceBundle rb; // for reading properties file
 	static String br; // to store browser name
 
-	private static WebDriver getchromeDriver() {
+	private static WebDriver getdesireDriver() {
 
 		rb = ResourceBundle.getBundle("Config");
 		br = rb.getString("browser");
@@ -49,7 +49,7 @@ public class driversetup {
 	public static void openPage(String url) {
 		getDriver().get(url);
 	}
-
+	
 	public static String getTitle() {
 		return getDriver().getTitle();
 	}
@@ -66,7 +66,7 @@ public class driversetup {
 
 	public static void setUpDriver() {
 		if (getDriver() == null) {
-			getchromeDriver();
+			getdesireDriver();
 		}
 	}
 

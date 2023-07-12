@@ -1,0 +1,120 @@
+{
+  "uid" : "4f4c2f7bf1ee71cc",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "74efd0ed5998a63d0a033706f36348b1",
+  "time" : {
+    "start" : 1684890447781,
+    "stop" : 1684890448486,
+    "duration" : 705
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684890439094,
+      "stop" : 1684890439877,
+      "duration" : 783
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684890452524,
+      "stop" : 1684890452563,
+      "duration" : 39
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "17604@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"User enter valid and invalid credentials for login\""
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6e360116b3588581",
+        "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/6e360116b3588581",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684890447781,
+          "stop" : 1684890448486,
+          "duration" : 705
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4f4c2f7bf1ee71cc.json",
+  "parameterValues" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and2\"", "\"User enter valid and invalid credentials for login\"" ]
+}

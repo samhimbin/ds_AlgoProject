@@ -1,0 +1,120 @@
+{
+  "uid" : "dd999d791f1cb197",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "522f3caa23360f75bd272c22bdd8e291",
+  "time" : {
+    "start" : 1684890451661,
+    "stop" : 1684890452246,
+    "duration" : 585
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1684890439094,
+      "stop" : 1684890439877,
+      "duration" : 783
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1684890452524,
+      "stop" : 1684890452563,
+      "duration" : 39
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testrunners.TestNgTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-TINQNFE1"
+  }, {
+    "name" : "thread",
+    "value" : "17604@LAPTOP-TINQNFE1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"User is able to navigate to tryeditor page and run invalid python code\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Evaluate Data stuructures Introduction\""
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "1746cb7d619a1f88",
+        "reportUrl" : "http://localhost:8080/job/ds_algoProject/2/allure/#testresult/1746cb7d619a1f88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684890451661,
+          "stop" : 1684890452246,
+          "duration" : 585
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "dd999d791f1cb197.json",
+  "parameterValues" : [ "\"User is able to navigate to tryeditor page and run invalid python code\"", "\"Evaluate Data stuructures Introduction\"" ]
+}

@@ -19,6 +19,7 @@ public class portalopen extends Basepage {
 	@Given("User opens dsalgo portal app url")
 	public void user_opens_dsalgo_portal_app_url() {
 		driversetup.openPage("https://dsportalapp.herokuapp.com");
+		
 		LoggerLoad.info("portal opened");
 	}
 

@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", //Extent Reports
 				//"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"		
 		},//reporting purpose-- html reports are created
-		monochrome=true,  //console output color and eliminate junk characters
+		monochrome=false,  //console output color and eliminate junk characters
 		//dryRun=false, // (=true)->compilation purpose mostly to chk stepdefinitions are implemented or not
 			tags="@portal or @home or @login ",	
 		features = {"src/test/resources/Features/"}, //location of feature files, we can give this way-->".//features//"

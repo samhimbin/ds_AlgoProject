@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element click intercepted: Element <input type=\"submit\" value=\"Login\"> is not clickable at point (959, 126). Other element would receive the click: <iframe scrolling=\"no\" frameborder=\"0\" style=\"border: 0px; height: 50px; width: 48px; left: 927px; top: 102px; z-index: 2147483647; position: absolute;\" src=\"https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/kpm/kpm_promo_balloon.html?cssSrc=https%3A%2F%2Fgc.kis.v2.scr.kaspersky-labs.com%2FE3E8934C-235A-4B0E-825A-35A08381A191%2Fkpm%2Ftooltip.css\"></iframe>\n  (Session info: chrome=113.0.5672.126)\nBuild info: version: '4.8.3', revision: 'e5e76298c3'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [8e382b5bfb9e7327ea2f51c2c54c26c5, clickElement {id=183CBB8E440AD77066296809B490BF8D_element_19}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.126, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\\Users\\kiran\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56525}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56525/devtoo..., se:cdpVersion: 113.0.5672.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (8e382b5bfb9e7327ea2f51c2c54c26c5)] -> xpath: //input[@value='Login']]\nSession ID: 8e382b5bfb9e7327ea2f51c2c54c26c5",
+      "children" : [ {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "3f30d73ca275cced",
+        "parentUid" : "6ac66db2000c9c746a7f19d4641f1c22",
+        "status" : "broken",
+        "time" : {
+          "start" : 1684890446167,
+          "stop" : 1684890447775,
+          "duration" : 1608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"User on login page and login with inavalid and validinputs from Excel\"Sheet1\" and1\"", "\"User enter valid and invalid credentials for login\"" ]
+      } ],
+      "uid" : "6ac66db2000c9c746a7f19d4641f1c22"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

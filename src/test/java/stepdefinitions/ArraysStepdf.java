@@ -7,14 +7,12 @@ import java.util.Map;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.junit.Assert;
 import org.openqa.selenium.Alert;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import DriverFactory.driversetup;
 import PageObjects.ArraysPage;
-import PageObjects.HomePage;
 import PageObjects.Loginpage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -162,6 +160,7 @@ public class ArraysStepdf extends Basepage {
 	@When("User click on Question2 its navigate to tryeditor page")
 	public void user_click_on_question2_its_navigate_to_tryeditor_page() {
 		arraypage.que2();
+	
 	}
 
 	@When("User click on Question3 its navigate to tryeditor page")
